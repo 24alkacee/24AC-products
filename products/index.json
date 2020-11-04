@@ -1,5 +1,5 @@
 [
-	{"name": "24 Alkaline C", "id": "ALKA-0001", "desc": "Ang 24 Alkaline C ay makakapagbigay ng iba"t ibang benepisyo sa ating katawan.", "price": 795, "unit": "box", "pic": "home/alka-box.jpg"},
+	{"name": "24 Alkaline C", "id": "ALKA-0001", "desc": "Ang 24 Alkaline C ay makakapagbigay ng iba't ibang benepisyo sa ating katawan.", "price": 795, "unit": "box", "pic": "home/alka-box.jpg"},
 	{"name": "24 Alkaline C (blisters)", "id": "ALKA-0002", "desc": "24 Alkaline C by blisters", "price": 100, "unit": "blister", "pic": "home/alka-box.jpg"},
 	{"name": "24 Alka-White", "id": "ALKA-0006", "desc": "Glutathione with Camellia Japonica and Collagen Peptides.", "price": 1600, "unit": "box", "pic": "product_detail/alka-white.jpg"},
 	{"name": "Savoune", "id": "ALKA-0003", "desc": "Softer skin, natural anti-wrinkle, and an instant whitening effect in just 3 minutes!", "price": 450, "unit": "box", "pic": "product_detail/savoune-02.jpg"},
